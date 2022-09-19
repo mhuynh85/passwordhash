@@ -1,2 +1,2 @@
 # passwordhash
-A function for salting and hashing a password
+A function for salting and hashing passwords.
